@@ -1,0 +1,91 @@
+body {
+    background: black url('../images/background.gif') center 30px no-repeat;
+}
+
+#content_body {
+    width: 900px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 50px;
+}
+
+#logo_box{
+    border: 2px solid #333333;
+    background: #FFFFFF url("../images/flattirelogo.png") left center no-repeat;
+    width:170px; 
+    height:145px;
+    padding-left: 230px;
+    padding-top:5px;
+    margin-bottom: 30px;
+}
+
+#facebook_icon {
+    background: transparent url("../images/facebookIcon.png") left center no-repeat;
+    height: 48px;
+    width: 48px;
+    text-indent: -9999px;
+    float:left;
+}
+
+#twitter_icon {
+    background: transparent url("../images/twitterIcon.png") left center no-repeat;
+    height: 48px;
+    width: 48px;
+    text-indent: -9999px;
+    float:left;
+    margin-left: 5px;
+}
+
+#foursquare_icon {
+    background: transparent url("../images/foursquareIcon.png") left center no-repeat;
+    height: 48px;
+    width: 48px;
+    text-indent: -9999px;
+    float:left;
+    margin-left: 5px;
+}
+
+#dwolla_icon {
+    background: transparent url("../images/dwollaLogo.png") left center no-repeat;
+    height: 40px;
+    width: 154px;
+    text-indent: -9999px;
+    margin-top: 70px;
+}
+
+.content_box{
+    border: 2px solid #333333;
+    background: transparent url('../images/box_background.png');
+    padding: 10px;
+    margin-bottom: 30px;
+}
+
+
+.helvetica_25_green
+{
+    color: #2A9086;
+    font-size: 25px;
+    font-family: Helvetica;
+}
+
+.helvetica_25_white
+{
+    color: #FFFFFF;
+    font-size: 22px;
+    font-family: Helvetica;
+}
+
+
+.arial_17_green
+{
+    color: #2A9086;
+    font-size: 17px;
+    font-family: Arial;
+}
+
+.arial_17_grey
+{
+    color: #CCCCCC;
+    font-size: 17px;
+    font-family: Arial;
+}
