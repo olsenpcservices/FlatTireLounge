@@ -68,11 +68,26 @@ body {
     font-family: Helvetica;
 }
 
+.helvetica_25_black
+{
+    font-size: 25px;
+    font-family: Helvetica;
+}
+
 .helvetica_25_white
 {
     color: #FFFFFF;
     font-size: 22px;
     font-family: Helvetica;
+}
+
+.helvetica_25_white_center
+{
+    color: #FFFFFF;
+    font-size: 32px;
+    font-family: Helvetica;
+    text-align:center;
+    text-decoration:underline;
 }
 
 
