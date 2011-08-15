@@ -9,13 +9,13 @@ body {
     padding: 50px;
 }
 
-#logo_box{
+#logo_box {
     border: 2px solid #333333;
     background: #FFFFFF url("../images/flattirelogo.png") left center no-repeat;
-    width:170px; 
-    height:145px;
+    width: 170px;
+    height: 145px;
     padding-left: 230px;
-    padding-top:5px;
+    padding-top: 5px;
     margin-bottom: 30px;
 }
 
@@ -24,7 +24,7 @@ body {
     height: 48px;
     width: 48px;
     text-indent: -9999px;
-    float:left;
+    float: left;
 }
 
 #twitter_icon {
@@ -32,7 +32,7 @@ body {
     height: 48px;
     width: 48px;
     text-indent: -9999px;
-    float:left;
+    float: left;
     margin-left: 5px;
 }
 
@@ -41,7 +41,7 @@ body {
     height: 48px;
     width: 48px;
     text-indent: -9999px;
-    float:left;
+    float: left;
     margin-left: 5px;
 }
 
@@ -53,53 +53,49 @@ body {
     margin-top: 70px;
 }
 
-.content_box{
+.content_box {
     border: 2px solid #333333;
     background: transparent url('../images/box_background.png');
     padding: 10px;
     margin-bottom: 30px;
 }
 
-
-.helvetica_25_green
-{
+.helvetica_25_green {
     color: #2A9086;
     font-size: 25px;
     font-family: Helvetica;
 }
 
-.helvetica_25_black
-{
+.helvetica_25_black {
     font-size: 25px;
     font-family: Helvetica;
 }
 
-.helvetica_25_white
-{
+.helvetica_25_white {
     color: #FFFFFF;
     font-size: 22px;
     font-family: Helvetica;
 }
 
-.helvetica_25_white_center
-{
+.helvetica_25_white_center {
     color: #FFFFFF;
     font-size: 32px;
     font-family: Helvetica;
-    text-align:center;
-    text-decoration:underline;
+    text-align: center;
+    text-decoration: underline;
 }
 
+.centered_text {
+    text-align: center;
+}
 
-.arial_17_green
-{
+.arial_17_green {
     color: #2A9086;
     font-size: 17px;
     font-family: Arial;
 }
 
-.arial_17_grey
-{
+.arial_17_grey {
     color: #CCCCCC;
     font-size: 17px;
     font-family: Arial;
