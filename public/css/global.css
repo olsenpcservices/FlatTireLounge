@@ -83,6 +83,18 @@ body {
     font-family: Helvetica;
     text-align: center;
     text-decoration: underline;
+
+}
+
+.helvetica_25_white_center2 {
+    color: #FFFFFF;
+    font-size: 32px;
+    font-family: Helvetica;
+    text-align: center;
+}
+
+.visited {
+     color:#FFFFFF;
 }
 
 .centered_text {
