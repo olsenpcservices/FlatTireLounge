@@ -86,15 +86,20 @@ body {
 
 }
 
+.helvetica_23_white_center {
+    color: #FFFFFF;
+    font-size: 23px;
+    font-family: Helvetica;
+    text-align: center;
+    text-decoration: underline;
+
+}
+
 .helvetica_25_white_center2 {
     color: #FFFFFF;
     font-size: 32px;
     font-family: Helvetica;
     text-align: center;
-}
-
-.visited {
-     color:#FFFFFF;
 }
 
 .centered_text {
@@ -111,4 +116,20 @@ body {
     color: #CCCCCC;
     font-size: 17px;
     font-family: Arial;
+}
+
+a:link {
+    COLOR: #FFFFFF;
+}
+
+a:visited {
+    COLOR: #FFFFFF;
+}
+
+a:hover {
+    COLOR: #FF0000;
+}
+
+a{
+    text-decoration:none;
 }
